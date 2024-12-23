@@ -18,6 +18,7 @@ npm start
 
 **Project Structure:**
 
+```
 My-First-React-App/
 ├── public/
 │   └── index.html
@@ -32,6 +33,7 @@ My-First-React-App/
 ├── package.json
 ├── package-lock.js
 └── README.md
+```
 
 Available Scripts
 
