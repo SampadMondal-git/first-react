@@ -57,8 +57,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 Learning Resources
 
-https://react.dev/
-https://create-react-app.dev/
+React Documentation - https://react.dev/
+Create React App Documentation https://create-react-app.dev/
 
 Customize This README
 Feel free to expand this README with:
