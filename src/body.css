@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.social {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.social a {
+    text-decoration: none;
+}
